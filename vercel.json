@@ -3,9 +3,9 @@
   "build": {
     "env": {
       "GOOGLE_APPLICATION_CREDENTIALS": "xxxx",
-      "GCLOUD_PROJECT": "@transitive-bullshit-gcloud-project",
-      "FIREBASE_COLLECTION_IMAGES": "@transitive-bullshit-firebase-collection-images",
-      "NEXT_PUBLIC_FATHOM_ID": "@next-public-fathom-id"
+      "GCLOUD_PROJECT": "transitive-bullshit-gcloud-project",
+      "FIREBASE_COLLECTION_IMAGES": "transitive-bullshit-firebase-collection-images",
+      "NEXT_PUBLIC_FATHOM_ID": "next-public-fathom-id"
     }
   }
 }
