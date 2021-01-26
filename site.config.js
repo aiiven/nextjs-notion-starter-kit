@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: 'd2316421a1cc4f1d8bc93e424ccbb702',
 
   // basic site info (required)
   name: 'Transitive Bullshit',
