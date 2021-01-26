@@ -4,7 +4,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
+  domain: 'nextjs-notion-starter-kit-puce.vercel.app',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
